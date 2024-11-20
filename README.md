@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -52,3 +53,10 @@ Join our community of developers creating universal apps.
 =======
 # StickerSmash
 >>>>>>> 97e8dc0 (Initial commit)
+=======
+# StickerSmash
+
+## How it works
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/30523b92-a4b8-4f32-ae65-9f0f8937cca5">
+>>>>>>> c6dccf3 (Update README.md)
